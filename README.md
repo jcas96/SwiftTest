@@ -18,19 +18,19 @@ The following **required** functionality is completed:
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-**Spotify**
+**Spotify**<br/>
   -Option for Dark mode(Changing background to black)<br/>
   -Simple layout with new current and old music reccomendations
 
-**X**
+**X**<br/>
   -Once again Simple layout with just 3 sections<br/>
   -Abiity to upload media, and text with no limit
 
-**Pinterest**
+**Pinterest**<br/>
   -Ability to find inspiration among all facets<br/>
   -Save feature to keep posts for later
 
-**Snapchat**
+**Snapchat**<br/>
   -quick and easy messaging<br/>
   -daily automatic story deletion
 
