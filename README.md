@@ -19,19 +19,19 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 **Spotify**
-  -Option for Dark mode(Changing background to black)
+  -Option for Dark mode(Changing background to black)<br/>
   -Simple layout with new current and old music reccomendations
 
 **X**
-  -Once again Simple layout with just 3 sections
+  -Once again Simple layout with just 3 sections<br/>
   -Abiity to upload media, and text with no limit
 
 **Pinterest**
-  -Ability to find inspiration among all facets
+  -Ability to find inspiration among all facets<br/>
   -Save feature to keep posts for later
 
 **Snapchat**
-  -quick and easy messaging
+  -quick and easy messaging<br/>
   -daily automatic story deletion
 
 
