@@ -15,7 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='https://github.com/jcas96/SwiftTest/blob/main/SwiftTest.gif' title="Video Walkthrough" width='' alt='Video Walkthrough'/>
+
 
 ## App Brainstorming (Step 4)
 **Spotify**<br/>
