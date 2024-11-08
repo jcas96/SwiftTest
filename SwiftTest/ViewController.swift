@@ -15,6 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    @IBOutlet weak var name: UILabel!
+    @IBOutlet weak var school: UILabel!
+    @IBOutlet weak var aspiration: UILabel!
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
         func changeColor() -> UIColor{
             let red = CGFloat.random(in: 0...1)
@@ -26,7 +29,10 @@ class ViewController: UIViewController {
         
         let randomColor = changeColor()
         view.backgroundColor = randomColor
-        
+        let rand = changeColor()
+        aspiration.textColor = rand
+        school.textColor = rand
+        name.textColor = rand
     }
 }
 
