@@ -37,7 +37,10 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app.</br>
+ It was a bit tricky to figure out how to create a variable for my labels.<br/>
+ However going back and seeing how we did it for the button, I figured it<br/>
+ would involed the same method and used ctrl + drag to create label variables.
 
 ## License
 
